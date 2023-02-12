@@ -1,4 +1,5 @@
-// @name        Duolingo Hack :)
+ // ==UserScript==
+ // @name        Duolingo Hack :)
  // @namespace   Violentmonkey Scripts
  // @match       https://*.duolingo.com/*
  // @grant       none
